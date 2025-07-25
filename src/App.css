@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+.pill-link {
+  @apply inline-block bg-white text-black py-2.5 px-6 rounded-lg hover:bg-gray-100 hover:scale-105 transition transform;
+}
+
+
