@@ -7,7 +7,7 @@ function App() {
         <div className="bg-[#1f1f1f] max-w-sm w-full p-8 rounded-xl shadow-lg flex flex-col items-center">
           <img
             className="rounded-full h-[120px] w-[120px] mt-6"
-            src="https://avatars.githubusercontent.com/u/123996651?v=4"
+            src="src/assets/profile-picture.png"
             alt="Umut Yavuz Profile Picture"
           />
           <h1 className="mt-5 text-white font-bold text-xl ">
