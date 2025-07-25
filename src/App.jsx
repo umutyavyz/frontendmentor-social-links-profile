@@ -15,7 +15,7 @@ function App() {
           </h1>
           <p className="text-lime-400 font-medium">Istanbul, Turkey</p>
           <p className="text-sm text-white mt-4 text-center font-light">
-             Front-end developer and avid reader.
+            "Front-end developer and avid reader."
           </p>
           <div className="flex flex-col gap-4 mt-6 text-center w-full">
             <a className="pill-link" target="blank" href="https://github.com/umutyavyz"> Github</a>
