@@ -7,7 +7,7 @@ It was built using **React** and **Tailwind CSS**. The goal was to create a resp
 
 ## 🔗 Live Site
 
-👉 [Live preview here](https://your-live-site-link.vercel.app)
+👉 [Live preview here](https://umutyavyz.github.io/frontendmentor-social-links-profile/)
 
 ---
 
