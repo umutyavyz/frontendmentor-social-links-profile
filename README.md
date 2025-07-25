@@ -44,8 +44,8 @@ It was built using **React** and **Tailwind CSS**. The goal was to create a resp
 
 ## ✍️ Author
 
-- GitHub: [@umutyavyz](https://github.com/yourusername)
-- Frontend Mentor: [@umutyavyz](hhttps://www.frontendmentor.io/profile/umutyavyz)
+- GitHub: [@umutyavyz](https://github.com/umutyavyz)
+- Frontend Mentor: [@umutyavyz](https://www.frontendmentor.io/profile/umutyavyz)
 
 ---
 
